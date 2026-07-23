@@ -55,10 +55,9 @@ Rather than replacing or modifying emulators, Install & Play automates configura
 ## Current Internal Support
 
 - ✅ PlayStation
-  - ✅ PlayStation
-  - ✅ PlayStation 2
-  - ✅ PlayStation 3
-  - ✅ PlayStation 4
+- ✅ PlayStation 2
+- ✅ PlayStation 3
+- ✅ PlayStation 4
 - ✅ Sega Mega-CD / Sega CD
 - ✅ Sega Saturn
 - ✅ PC Engine CD / TurboGrafx-CD
