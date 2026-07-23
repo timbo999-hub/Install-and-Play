@@ -115,7 +115,7 @@ To everyone who has contributed to the emulation community over the years, **tha
 
 Follow progress through the Community tab on the **Tim Dark** YouTube channel.
 
-*(YouTube channel link to be added.)*
+https://youtube.com/@timdark9282?si=e0j4-0qN_klK0A6C
 
 ---
 
